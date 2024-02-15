@@ -179,5 +179,9 @@ body {
         width: 60%;
         padding: 21.5px 21.5px; 
         }
+
+    .rodape {
+        font-size: 1.2rem;
+    }
 }
 
