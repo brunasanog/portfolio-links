@@ -8,6 +8,4 @@ Estou ansiosa por mais experiências e aprendizados! ♡
 
 Gratidão pelos ensinamentos Rafaella Ballerini e Guilherme Lima.
 
-Link do deploy: https://lnkd.in/dpE7V9xQ
-
-Link do repositório: https://lnkd.in/dCaHdcFr
+Deploy: https://portfolio-links-flax.vercel.app/
